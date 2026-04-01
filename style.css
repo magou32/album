@@ -1,7 +1,10 @@
-
-
 body{color: cornflowerblue;}
-body{ font-family: "Special Elite", system-ui;
+
+body{font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-style: normal;
 ;}
+
+img{float:right;}
+
+
